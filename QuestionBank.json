@@ -1,0 +1,289 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": {
+      "A": "Berlin",
+      "B": "Madrid",
+      "C": "Paris",
+      "D": "Rome"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 5 + 7?",
+    "options": {
+      "A": "10",
+      "B": "11",
+      "C": "12",
+      "D": "13"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who developed the theory of relativity?",
+    "options": {
+      "A": "Newton",
+      "B": "Einstein",
+      "C": "Tesla",
+      "D": "Bohr"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "options": {
+      "A": "Earth",
+      "B": "Mars",
+      "C": "Jupiter",
+      "D": "Saturn"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "options": {
+      "A": "Au",
+      "B": "Ag",
+      "C": "Fe",
+      "D": "Pb"
+    },
+    "answer": "A",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the square root of 144?",
+    "options": {
+      "A": "10",
+      "B": "11",
+      "C": "12",
+      "D": "13"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which element has the atomic number 1?",
+    "options": {
+      "A": "Oxygen",
+      "B": "Hydrogen",
+      "C": "Carbon",
+      "D": "Nitrogen"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the largest mammal in the world?",
+    "options": {
+      "A": "Elephant",
+      "B": "Blue Whale",
+      "C": "Giraffe",
+      "D": "Hippopotamus"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who is known as the father of modern physics?",
+    "options": {
+      "A": "Isaac Newton",
+      "B": "Albert Einstein",
+      "C": "Galileo Galilei",
+      "D": "Nikola Tesla"
+    },
+    "answer": "A",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the smallest prime number?",
+    "options": {
+      "A": "-1",
+      "B": "0",
+      "C": "1",
+      "D": "2"
+    },
+    "answer": "D",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the chemical formula for water?",
+    "options": {
+      "A": "H2O",
+      "B": "CO2",
+      "C": "O2",
+      "D": "NaCl"
+    },
+    "answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": {
+      "A": "Vincent van Gogh",
+      "B": "Pablo Picasso",
+      "C": "Leonardo da Vinci",
+      "D": "Michelangelo"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "options": {
+      "A": "Atlantic Ocean",
+      "B": "Indian Ocean",
+      "C": "Arctic Ocean",
+      "D": "Pacific Ocean"
+    },
+    "answer": "D",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the speed of light in a vacuum?",
+    "options": {
+      "A": "~300,000 km/s",
+      "B": "~150,000 km/s",
+      "C": "~450,000 km/s",
+      "D": "~600,000 km/s"
+    },
+    "answer": "A",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": {
+      "A": "Venus",
+      "B": "Mars",
+      "C": "Jupiter",
+      "D": "Saturn"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the chemical symbol for sodium?",
+    "options": {
+      "A": "Na",
+      "B": "S",
+      "C": "N",
+      "D": "K"
+    },
+    "answer": "A",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who is the author of 'To Kill a Mockingbird'?",
+    "options": {
+      "A": "Harper Lee",
+      "B": "Mark Twain",
+      "C": "Ernest Hemingway",
+      "D": "F. Scott Fitzgerald"
+    },
+    "answer": "A",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "options": {
+      "A": "Sahara Desert",
+      "B": "Gobi Desert",
+      "C": "Kalahari Desert",
+      "D": "Antarctic Desert"
+    },
+    "answer": "D",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the atomic number of carbon?",
+    "options": {
+      "A": 6,
+      "B": 12,
+      "C": 14,
+      "D": 16
+    },
+    "answer": 6,
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who is the founder of Microsoft?",
+    "options": {
+      "A": "Steve Jobs",
+      "B": "Bill Gates",
+      "C": "Mark Zuckerberg",
+      "D": "Elon Musk"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the largest continent on Earth?",
+    "options": {
+      "A": "Africa",
+      "B": "Asia",
+      "C": "Europe",
+      "D": "North America"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the chemical symbol for iron?",
+    "options": {
+      "A": "Fe",
+      "B": "Ir",
+      "C": "In",
+      "D": "I"
+    },
+    "answer": "A",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who is the author of '1984'?",
+    "options": {
+      "A": "George Orwell",
+      "B": "Aldous Huxley",
+      "C": "Ray Bradbury",
+      "D": "J.D. Salinger"
+    },
+    "answer": "A",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the largest volcano in the world?",
+    "options": {
+      "A": "Mount Everest",
+      "B": "Mauna Loa",
+      "C": "Mount Kilimanjaro",
+      "D": "Mount Fuji"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the chemical symbol for helium?",
+    "options": {
+      "A": "He",
+      "B": "H",
+      "C": "Hi",
+      "D": "Hm"
+    },
+    "answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who is the author of 'The Great Gatsby'?",
+    "options": {
+      "A": "F. Scott Fitzgerald",
+      "B": "Ernest Hemingway",
+      "C": "Mark Twain",
+      "D": "Harper Lee"
+    },
+    "answer": "A",
+    "difficulty": "medium"
+  }
+]
+  
